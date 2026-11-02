@@ -1,18 +1,14 @@
-Hi, I'm Guru Charan 👋
+# Hi, I'm Guru Charan 👋
 
-Computer Science Engineering Student | Aspiring Software Developer
+### Computer Science Engineering Student | Aspiring Software Developer
 
-I'm a final-year CSE student at SRM Institute of Science and Technology, Ramapuram (2027), interested in software development, AI/ML, and building practical solutions to real-world problems.
+I'm a final-year Computer Science and Engineering student at **SRM Institute of Science and Technology, Ramapuram (2027)**. I'm passionate about software development, AI/ML, and building practical solutions to real-world problems.
 
-🎓 B.Tech CSE | CGPA: 8.53/10
-
-💻 Working with Python, Java, and web technologies.
-
-🤖 Exploring AI, Machine Learning, and Computer Vision.
-
-🚀 Building projects and strengthening my problem-solving skills.
-
-🌱 Always learning and improving.
+- 🎓 B.Tech in Computer Science and Engineering | CGPA: 8.53/10
+- 💻 Programming in Python and Java.
+- 🤖 Interested in Artificial Intelligence, Machine Learning, and Computer Vision.
+- 🚀 Developing practical projects and improving my problem-solving skills.
+- 🌱 Continuously learning and exploring new technologies.
 
 
 ## 🌐 Socials:
