@@ -1,5 +1,18 @@
-# 💫 About Me:
-# Hi there, I'm Guru Charan! 👋<br><br>🎓 Final-year Computer Science and Engineering student at **SRM Institute of Science and Technology, Ramapuram (2027)**.<br><br>💻 Aspiring Software Developer passionate about building practical applications and solving real-world problems through technology.<br><br>🚀 Interested in **Software Development, Artificial Intelligence, Machine Learning, and Web Development**.<br><br>🌱 Continuously learning and improving my skills in Python, Java, Data Structures & Algorithms, and Full-Stack Development.<br><br>🔭 I enjoy developing projects that combine software engineering with AI-powered solutions.<br><br>📌 Currently focusing on strengthening my programming fundamentals, building practical projects, and preparing for software engineering opportunities.<br><br>📫 Open to learning opportunities, internships, collaborations, and entry-level software development roles.
+Hi, I'm Guru Charan 👋
+
+Computer Science Engineering Student | Aspiring Software Developer
+
+I'm a final-year CSE student at SRM Institute of Science and Technology, Ramapuram (2027), interested in software development, AI/ML, and building practical solutions to real-world problems.
+
+🎓 B.Tech CSE | CGPA: 8.53/10
+
+💻 Working with Python, Java, and web technologies.
+
+🤖 Exploring AI, Machine Learning, and Computer Vision.
+
+🚀 Building projects and strengthening my problem-solving skills.
+
+🌱 Always learning and improving.
 
 
 ## 🌐 Socials:
